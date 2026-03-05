@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Just Keep Watching",
+  "base_artist": "Tate McRae",
+  "createdAt": "2026-03-05T04:40:03.905780Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Just Keep Watching (From F1® The Movie)",
+      "artist": "Tate McRae",
+      "has_synced": true,
+      "path": "select/01_Just_Keep_Watching_(From_F1®_The_Movie)_Tate_McRae.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "just keep watching (from f1� the movie)",
+      "artist": "tate mcrae",
+      "has_synced": true,
+      "path": "select/02_just_keep_watching_(from_f1�_the_movie)_tate_mcrae.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Just Keep Watching (From F1® The Movie) (From F1® The Movie)",
+      "artist": "Tate McRae",
+      "has_synced": true,
+      "path": "select/03_Just_Keep_Watching_(From_F1®_The_Movie)_(From_F1®_The_Movie)_Tate_McRae.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Just Keep Watching",
+      "artist": "Tate McRae",
+      "has_synced": true,
+      "path": "select/04_Just_Keep_Watching_Tate_McRae.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Just Keep Watching",
+      "artist": "Hans Zimmer",
+      "has_synced": true,
+      "path": "select/05_Just_Keep_Watching_Hans_Zimmer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Just Keep Watching (From F1® The Movie) (Paused)",
+      "artist": "Tate McRae",
+      "has_synced": true,
+      "path": "select/06_Just_Keep_Watching_(From_F1®_The_Movie)_(Paused)_Tate_McRae.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Just Keep Watching (From F1® The Movie)",
+      "artist": "Tate McRae",
+      "has_synced": false,
+      "path": "select/pl_01_Just_Keep_Watching_(From_F1®_The_Movie)_Tate_McRae.txt"
+    }
+  ]
+}
